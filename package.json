@@ -5,7 +5,7 @@
   "type": "module",
   "description": "HOT SUMMER - built with AppMaker",
   "scripts": {
-    "start": "node server/project-server.js"
+    "start": "node project-server.js"
   },
   "dependencies": {
     "chart.js": "^4.5.1",
